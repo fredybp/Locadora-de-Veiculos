@@ -1,5 +1,9 @@
 # Sistema de um gerenciamento de uma pequena locadora de veículos
 
+---------------------------------------------------------------------------------------------------------------------------------------
+Projeto realizado para a disciplina de Estrutura de Dados A
+---------------------------------------------------------------------------------------------------------------------------------------
+
 <br> Visão geral sobre o funcionamento do programa: </b> </br> 
 Nesse programa utilizamos duas listas ligadas. Uma referente aos carros, que serão inseridos, removidos, alugados etc., contendo data, hora, marca, modelo, chassis, a quilometragem e por ultimo um ponteiro para o proximo carro a ser inserido. E a outra, referente aos clientes; armazenando informações sobre o nome, código, um ponteiro para os carros alugados de um determinado cliente e um ponteiro para o proximo cliente. 
 
